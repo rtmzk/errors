@@ -22,3 +22,8 @@ _testmain.go
 *.exe
 *.test
 *.prof
+<<<<<<< HEAD
+=======
+
+.idea
+>>>>>>> b60ac88 (feature: add http status code and stack format support.)
